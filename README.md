@@ -1,2 +1,2 @@
 # new-blog
-small website for using Jekyll
+small website for using Jekyll- update for test 

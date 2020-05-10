@@ -1,3 +1,4 @@
 markdown: kramdown
 baseurl: /new-blog
 exclude: ['README.md']
+permalink: pretty
